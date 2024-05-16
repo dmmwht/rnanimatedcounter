@@ -1,4 +1,9 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+
+This is a new [*
+
+https://github.com/dmmwht/rnanimatedcounter/assets/169955911/01d9c8d5-813b-49a9-b5c4-8c11063c8324
+
+*React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
 
